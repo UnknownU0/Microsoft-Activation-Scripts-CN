@@ -32,7 +32,7 @@
   汉化日期：2023年10月28日
   ```
 
-  ## ![MainPage](.\Image\MainPage.png)
+  ## ![MainPage](Image/MainPage.png)
 
 ### 方法2 - PowerShell（英文原版）
 
