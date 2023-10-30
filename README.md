@@ -14,7 +14,7 @@
 
 ### 方法1 - 传统方式（汉化版）
 
-- 从 [此处](https://github.com/UnknownU0/Microsoft-Activation-Scripts-CN/archive/refs/heads/master.zip) 下载文件。
+- 从 [此处](https://ghproxy.com/https://github.com/UnknownU0/Microsoft-Activation-Scripts-CN/archive/refs/heads/master.zip) 下载文件。
 
 - 右键单击已下载的 zip 文件并解压缩。
 
